@@ -5,9 +5,7 @@ Dispositivos diferentes: Adaptar o layout para smartphones, tablets e desktops.
 Orientação da tela: Ajustar o design de acordo com a orientação do dispositivo (vertical ou horizontal).
 
 
-
 Aqui estão algumas das media queries que foram aplicadas no projeto:
-
 
 /* Para smartphones */
 @media (max-width: 599px) {
